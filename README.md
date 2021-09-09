@@ -1,3 +1,4 @@
+# This is my own copy ! abc
 # Git and GitHub in R/RStudio
 
 This short workshop (and repo) provide information on the following things:
